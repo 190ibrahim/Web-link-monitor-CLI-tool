@@ -1,0 +1,5 @@
+monitorInterval: 20
+urls:
+ - https://google.com
+ - https://nokia.com
+ - https://notexist.co
